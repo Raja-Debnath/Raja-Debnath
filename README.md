@@ -29,3 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raja-debnath&" alt="raja-debnath" /></p>
 
+<img src="https://raw.githubusercontent.com/Raja-Debnath/Raja-Debnath/output/snake.svg" alt="Snake animation" />
+
+###
