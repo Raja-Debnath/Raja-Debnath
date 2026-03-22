@@ -1,6 +1,8 @@
 # Raja Debnath
 
-**Backend Developer** — I build production-grade APIs and automation systems with real business logic behind them.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=600&lines=Backend+Developer+%F0%9F%9A%80;Building+production-grade+APIs;Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+Prisma;Building+Invoxa+in+public+%F0%9F%94%A8;Open+to+remote+backend+roles" alt="Typing SVG" />
+</p>
 
 Self-taught. Based in Mumbai, India. Targeting remote backend roles at product-focused companies.
 
@@ -19,15 +21,7 @@ Every decision is intentional. Every module is documented publicly.
 
 Follow the build → [LinkedIn](https://linkedin.com/in/raja-debnath-78b8a6242)
 
----
-
-## 💼 Experience
-
-**Backend Development Intern — Cryso Media** *(Dec 2024 – Jun 2025)*
-- Built an end-to-end data scraping system processing **10,000–45,000 records daily**
-- Reduced daily manual effort from **4 hours to under 30 minutes** via full pipeline automation
-- Scraped structured data from companies across India and Indonesia for analytics teams
-- **Stack:** Node.js, Puppeteer, Bash, Git, Linux
+> Previously built production data pipelines at Cryso Media — 10k–45k records daily, Node.js + Puppeteer.
 
 ---
 
@@ -52,3 +46,23 @@ LinkedIn → [raja-debnath-78b8a6242](https://linkedin.com/in/raja-debnath-78b8a
 ---
 
 *Building seriously. Documenting honestly. Shipping daily.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raja-debnath&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raja-debnath&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=raja-debnath&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raja-debnath&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
